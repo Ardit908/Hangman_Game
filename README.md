@@ -13,6 +13,4 @@ Lojtari duhet të gjejë fjalën e fshehur duke sugjeruar shkronja para se figur
 ## Si të ekzekutosh
 1. Sigurohu që ke instaluar **Java JDK**.  
 2. Hap projektin në **Eclipse** ose IDE tjetër Java.  
-3. Ekzekuto skedarin kryesor, p.sh.:  
-   ```bash
-   java Game.java
+3. Ekzekuto skedarin kryesor
